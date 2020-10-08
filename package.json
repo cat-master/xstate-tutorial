@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "name": "xstate-sandbox",
+  "version": "0.0.1",
+  "description": "How to parametrize a machine - abstract away data source URL?",
+  "main": "index.js",
+  "dependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+    "xstate": "^4.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "bundle": "webpack"
+  },
+  "author": "Aexander Ushakov",
+  "license": "ISC"
+}
